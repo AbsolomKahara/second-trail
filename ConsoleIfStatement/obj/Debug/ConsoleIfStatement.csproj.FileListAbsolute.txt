@@ -1,0 +1,6 @@
+C:\Users\HP\RiderProjects\Console\ConsoleIfStatement\bin\Debug\ConsoleIfStatement.exe
+C:\Users\HP\RiderProjects\Console\ConsoleIfStatement\bin\Debug\ConsoleIfStatement.pdb
+C:\Users\HP\RiderProjects\Console\ConsoleIfStatement\obj\Debug\ConsoleIfStatement.csprojAssemblyReference.cache
+C:\Users\HP\RiderProjects\Console\ConsoleIfStatement\obj\Debug\ConsoleIfStatement.csproj.CoreCompileInputs.cache
+C:\Users\HP\RiderProjects\Console\ConsoleIfStatement\obj\Debug\ConsoleIfStatement.exe
+C:\Users\HP\RiderProjects\Console\ConsoleIfStatement\obj\Debug\ConsoleIfStatement.pdb
